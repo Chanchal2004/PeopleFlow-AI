@@ -253,12 +253,4 @@ Special Thanks: To all contributors and testers who made this project possible.
 
 This project is licensed under the MIT License.
 
-## 📬 Contact
-
-For any questions or support, feel free to reach out:
-
-Email: darshjogi001@gmail.com
-
-LinkedIn: [Darsh Jogi](https://www.linkedin.com/in/darsh-jogi-info/).
-
 Thank you for visiting the Employees Management System (EMS) project! We hope it provides valuable insights into how technology can simplify employee management.
