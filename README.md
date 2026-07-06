@@ -244,8 +244,6 @@ Phase 4: Optimize for scalability and deploy a production-ready version.
 
 ## 🧑‍💻 Authors & Acknowledgments
 
-Darsh Jogi: Project Lead and Software Engineer
-
 Special Thanks: To all contributors and testers who made this project possible.
 
 
